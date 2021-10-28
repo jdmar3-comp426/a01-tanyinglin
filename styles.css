@@ -1,0 +1,39 @@
+body {
+    background-color:#f5f5dc
+}
+head {
+    background-color:#deb887
+}
+li{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+title{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+}
+title:hover{
+    color:gold
+}
+image{
+    height: fit-content;
+    width: fit-content;
+    border-style: dotted;
+}
+#more{
+    font-weight: bolder;
+    font-size: medium;
+}
+.center{
+    text-align: center;
+    color: darkturquoise;
+    border: dashed;
+}
+p{
+    text-align: left;
+}
+a:visited{
+    color:hotpink
+}
+div > a{
+    background-color: mediumpurple;
+}
