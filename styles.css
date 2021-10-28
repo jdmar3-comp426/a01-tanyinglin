@@ -32,7 +32,7 @@ p{
 a:visited{
     color:hotpink
 }
-div > p{
+div > h2{
     background-color: #9370d8;
     font-weight: bolder;
 }
