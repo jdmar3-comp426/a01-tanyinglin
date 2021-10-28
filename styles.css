@@ -4,9 +4,6 @@ body {
 head {
     background-color:#deb887
 }
-li{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
 title{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: large;
@@ -30,6 +27,7 @@ image{
 }
 p{
     text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 a:visited{
     color:hotpink
