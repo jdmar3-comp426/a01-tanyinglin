@@ -34,6 +34,7 @@ p{
 a:visited{
     color:hotpink
 }
-div > a{
-    background-color: mediumpurple;
+div > p{
+    background-color: #9370d8;
+    font-weight: bolder;
 }
